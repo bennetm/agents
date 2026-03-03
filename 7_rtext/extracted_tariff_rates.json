@@ -1,0 +1,1822 @@
+{
+  "document_name": "Freight Rate Tariff Document",
+  "total_routes": 26,
+  "rates": [
+    {
+      "route_type": "outbound",
+      "country": "BRUNEI",
+      "port_name": "MUARA (SGD)",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "MUARA",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 775.0,
+          "currency": "SGD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 1550.0,
+          "currency": "SGD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": 200.0,
+          "currency": "SGD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "PHILIPPINES",
+      "port_name": "MANILA (NORTH)",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "MANILA",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "PHILIPPINES",
+      "port_name": "CEBU",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "CEBU",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 600.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "PHILIPPINES",
+      "port_name": "DAVAO",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "DAVAO",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 600.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "THAILAND",
+      "port_name": "LAEM CHABANG",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "LAEM CHABANG",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 35.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "THAILAND",
+      "port_name": "BANGKOK (PAT)",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "BANGKOK",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 250.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "VIETNAM",
+      "port_name": "HO CHI MINH",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "HO CHI MINH",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 160.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "INDONESIA",
+      "port_name": "JAKARTA",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "JAKARTA",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "MALAYSIA",
+      "port_name": "PORT KLANG (W)",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "PORT KLANG (W)",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "MALAYSIA",
+      "port_name": "PORT KLANG (N)",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "PORT KLANG (N)",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 125.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 250.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "CHINA",
+      "port_name": "SHANGHAI",
+      "region": "sea_china",
+      "pol": "SINGAPORE",
+      "pod": "SHANGHAI",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 50.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": 30.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "UAE",
+      "port_name": "JEBEL ALI",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "JEBEL ALI",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 850.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 1400.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "UAE",
+      "port_name": "BND via JEA",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "BND via JEA",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 1300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 2050.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 400.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "INDIA",
+      "port_name": "NHAVA SHEVA",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "NHAVA SHEVA",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 650.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 1100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "INDIA",
+      "port_name": "MUNDRA",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "MUNDRA",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 800.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 1200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "PAKISTAN",
+      "port_name": "KARACHI",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "KARACHI",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 800.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 1300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "BANGLADESH",
+      "port_name": "CHATTOGRAM (CY/CY)",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "CHATTOGRAM",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 950.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 1600.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "outbound",
+      "country": "BANGLADESH",
+      "port_name": "CHATTOGRAM (CY/CY)",
+      "region": "india_middle_east_subcon",
+      "pol": "SINGAPORE",
+      "pod": "CHATTOGRAM",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-14",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "BRUNEI",
+      "port_name": "MUARA (SGD)",
+      "region": "sea_china",
+      "pol": "MUARA",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "SGD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 600.0,
+          "currency": "SGD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": 200.0,
+          "currency": "SGD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "PHILIPPINES",
+      "port_name": "MANILA",
+      "region": "sea_china",
+      "pol": "MANILA",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 75.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "THAILAND",
+      "port_name": "BANGKOK (PAT)",
+      "region": "sea_china",
+      "pol": "BANGKOK",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 180.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 280.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "THAILAND",
+      "port_name": "LAEM CHABANG",
+      "region": "sea_china",
+      "pol": "LAEM CHABANG",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "THAILAND",
+      "port_name": "LAT KRABANG",
+      "region": "sea_china",
+      "pol": "LAT KRABANG",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 400.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 300.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "VIETNAM",
+      "port_name": "HO CHI MINH",
+      "region": "sea_china",
+      "pol": "HO CHI MINH",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 160.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "INDONESIA",
+      "port_name": "JAKARTA",
+      "region": "sea_china",
+      "pol": "JAKARTA",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 50.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 100.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 80.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 150.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    },
+    {
+      "route_type": "inbound",
+      "country": "BANGLADESH",
+      "port_name": "CHATTOGRAM",
+      "region": "sea_china",
+      "pol": "CHATTOGRAM",
+      "pod": "SINGAPORE",
+      "charges": [
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "20'GP",
+          "amount": 25.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ocean_freight",
+          "container_type": "40'HC",
+          "amount": 50.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "dg3_surcharge",
+          "container_type": "20'GP",
+          "amount": 200.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "dg2_surcharge",
+          "container_type": "20'GP",
+          "amount": 350.0,
+          "currency": "USD",
+          "is_included": false,
+          "unit": "per_teu"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "baf_lss",
+          "container_type": "40'GP",
+          "amount": null,
+          "currency": "SGD",
+          "is_included": true,
+          "unit": "per_container"
+        },
+        {
+          "charge_type": "ams",
+          "container_type": "20'GP",
+          "amount": null,
+          "currency": "USD",
+          "is_included": true,
+          "unit": "per_set"
+        }
+      ],
+      "effective_date_start": "2025-11-01",
+      "effective_date_end": "2025-11-30",
+      "special_notes": []
+    }
+  ],
+  "global_fees": [
+    {
+      "fee_name": "BL Fee",
+      "amount": 200.0,
+      "currency": "SGD",
+      "unit": "per_set",
+      "applies_to": "all"
+    },
+    {
+      "fee_name": "Seal Fee",
+      "amount": 20.0,
+      "currency": "SGD",
+      "unit": "per_container",
+      "applies_to": "all"
+    }
+  ],
+  "notes": [
+    "Rates are subject to BL Fee SGD200/SET and Seal Fee SGD20/CNTR",
+    "BND subject to switch BL Fee U$250/SET",
+    "S.E.A/China rates effective 1st November '25 to 31st November '25",
+    "India/Middle East/Subcon rates effective 14th November '25 to 31st November '25"
+  ]
+}

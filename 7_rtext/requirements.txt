@@ -1,0 +1,17 @@
+# OpenAI API
+openai>=1.12.0
+
+# Data validation and schema
+pydantic>=2.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# PDF text extraction (recommended; without it only first 8k chars of raw decode are used)
+pdfplumber>=0.10.0
+# pdf2image>=1.16.0
+# Pillow>=10.0.0
+
+# Jupyter (if not already installed)
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
